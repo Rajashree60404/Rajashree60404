@@ -1,4 +1,4 @@
-# Hi, I'm RAJASHREE ! 👋
+<div align ="center"> Hi, I'm RAJASHREE ! 👋</div>
 
 ### MCA Graduate | Aspiring Java Full Stack Developer
 

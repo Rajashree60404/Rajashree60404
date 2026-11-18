@@ -29,10 +29,6 @@ I'm passionate about building web applications and solving real-world problems t
 
 **Other:** JWT Authentication, BCrypt, AWS
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajashree60404&show_icons=true&theme=tokyonight)
-
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajashree60404&layout=compact&theme=tokyonight)

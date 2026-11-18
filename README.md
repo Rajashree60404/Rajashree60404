@@ -11,8 +11,8 @@ I'm passionate about building web applications and solving real-world problems t
 
 ## 🤝 Conntect With Me
 
-- 📧 Email: [your-email@example.com](mailto:rajashree60404@gmail.com)
-- 💼 LinkedIn: [Rajashree D](https://www.linkedin.com/in/rajashree-d/)
+- 📧 Email: [rajashree60404@gmail.com](mailto:rajashree60404@gmail.com)
+- 💼 LinkedIn: [Rajashree](https://www.linkedin.com/in/rajashree-d/)
 - 🐙 GitHub: [Rajashree60404](https://github.com/Rajashree60404)
 
 ## 💻 Technical Skills

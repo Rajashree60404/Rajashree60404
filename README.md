@@ -1,4 +1,4 @@
-# Hi, I'm Rajashree Dhanabalan! 👋
+# Hi, I'm RAJASHREE ! 👋
 
 ### MCA Graduate | Aspiring Java Full Stack Developer
 
@@ -6,9 +6,14 @@ I'm passionate about building web applications and solving real-world problems t
 
 - 🎓 MCA Graduate
 - 💻 Interested in Java Full Stack Development
-- 🌱 Currently learning AWS and DevOps
 - 🚀 Building projects using Java, Spring Boot and React.js
 - 🎯 Looking for opportunities as a Java Developer / Java Full Stack Developer
+
+## 🤝 Conntect With Me
+
+- 📧 Email: [your-email@example.com](mailto:rajashree60404@gmail.com)
+- 💼 LinkedIn: [Rajashree D](https://www.linkedin.com/in/rajashree-d/)
+- 🐙 GitHub: [Rajashree60404](https://github.com/Rajashree60404)
 
 ## 💻 Technical Skills
 
@@ -22,7 +27,16 @@ I'm passionate about building web applications and solving real-world problems t
 
 **Tools:** Git, GitHub, Postman, Eclipse, VS Code
 
-**Other:** JWT Authentication, BCrypt, AWS (Learning)
+**Other:** JWT Authentication, BCrypt, AWS
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajashree60404&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajashree60404&layout=compact&theme=tokyonight)
+
 
 ## 🚀 Featured Project
 
@@ -33,11 +47,6 @@ A full-stack web application designed to simplify the college leave application 
 **Technologies:** Java, Spring Boot, React.js, MySQL, JWT, REST APIs
 
 🔗 [View Project on GitHub](https://github.com/Rajashree60404/CollegeLeaveManagementSystem)
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: [Rajashree D](https://www.linkedin.com/in/rajashree-d)
-- 🐙 GitHub: [Rajashree60404](https://github.com/Rajashree60404)
 
 ---
 

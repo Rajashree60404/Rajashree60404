@@ -1,6 +1,6 @@
-<div align ="center"> Hi, I'm RAJASHREE ! 👋</div>
+<h1 align ="center"> Hi, I'm RAJASHREE ! 👋</h1>
 
-### MCA Graduate | Aspiring Java Full Stack Developer
+### Aspiring Java Full Stack Developer
 
 I'm passionate about building web applications and solving real-world problems through technology.
 
